@@ -262,3 +262,4 @@ We renamed `nx` to `nix` to avoid conflicts with the other existing tool - [nx](
 ```bash
 alias nx="nix"
 ```
+learning to commit
